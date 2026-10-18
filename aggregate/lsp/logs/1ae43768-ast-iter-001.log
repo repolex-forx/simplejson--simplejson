@@ -1,0 +1,7 @@
+[2026-10-18T02:47:11Z] === AST ITERATION 1 START | repo=simplejson/simplejson sha=1ae43768 ===
+[2026-10-18T02:47:11Z] [iter=1] PHASE START: ast repo=simplejson/simplejson sha=1ae43768
+[2026-10-18T02:47:11Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T02:48:00Z] [iter=1] AST chunks built count=1 triples=414178
+[2026-10-18T02:48:00Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1ae4376804cbd09e683eebedf714984360effbca/.complete
+[2026-10-18T02:48:00Z] [iter=1] PHASE END: ast elapsed_s=49 elapsed_min=0.8
+[2026-10-18T02:48:00Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

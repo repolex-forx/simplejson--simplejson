@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simplejson/simplejson/commit/1ae4376804cbd09e683eebedf714984360effbca",
       "git:hexsha": "1ae4376804cbd09e683eebedf714984360effbca",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/simplejson/simplejson/commit/3ff7e5dfc8e05347409493a9b0505ab9d16ed66d",
